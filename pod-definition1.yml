@@ -4,7 +4,7 @@ kind: Pod
 metadata:
   name: nginx-pod
   labels:
-    author: intelliqit
+    author: krunal
     type: proxy
 spec:
   containers:

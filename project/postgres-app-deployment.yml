@@ -24,6 +24,6 @@ spec:
               value: intelliqit
             - name: POSTGRES_USER
               value: myuser
-            - nmae: POSTGRES_DB
+            - name: POSTGRES_DB
               value: mydb
             
